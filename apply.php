@@ -98,6 +98,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </form>
 
     <a href="index.php" class="back-link">⬅ Back to Job Listings</a>
+    
 </div>
 
 </body>
